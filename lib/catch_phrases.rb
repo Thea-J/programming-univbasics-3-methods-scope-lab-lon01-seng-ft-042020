@@ -15,4 +15,6 @@ def link_to_remote
   puts protect_self
 end
 
-def
+def all_phrases
+  
+end
