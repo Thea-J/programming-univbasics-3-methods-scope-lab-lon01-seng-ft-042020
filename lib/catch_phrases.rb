@@ -10,11 +10,14 @@ def toadstool
   puts status
 end
 
+#Define a method that outputs the local variable protect_self
 def link
   protect_self = "It's Dangerous To Go Alone! Take This."
   puts protect_self
 end
 
+#Call all of the above methods
+#They are defined in the outer scope (they are global) & can be used inside the method all_phrases
 def all_phrases
   mario
   toadstool
