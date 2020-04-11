@@ -14,3 +14,5 @@ def link_to_remote
   protect_self = "It's Dangerous To Go Alone! Take This."
   puts protect_self
 end
+
+def
