@@ -10,7 +10,7 @@ def toadstool
   puts status
 end
 
-def link_to_remote
+def link
   protect_self = "It's Dangerous To Go Alone! Take This."
   puts protect_self
 end
@@ -18,5 +18,5 @@ end
 def all_phrases
   mario
   toadstool
-  
+  link
 end
