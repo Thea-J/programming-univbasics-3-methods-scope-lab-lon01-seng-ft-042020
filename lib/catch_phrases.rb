@@ -16,5 +16,6 @@ def link_to_remote
 end
 
 def all_phrases
+  mario
   
 end
