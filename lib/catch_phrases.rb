@@ -16,8 +16,7 @@ def link
   puts protect_self
 end
 
-#Call all of the above methods
-#They are defined in the outer scope (they are global) & can be used inside the method all_phrases
+#Call all of the above methods -They're defined in the outer scope (they're global) & can be used inside the method all_phrases
 def all_phrases
   mario
   toadstool
